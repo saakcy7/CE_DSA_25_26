@@ -16,5 +16,4 @@ class Graph{
         bool isDirected();
         bool isEmpty();
         bool isFull();
-        ~Graph();
 };
