@@ -7,4 +7,5 @@ class Graph {
     public:
         Graph (int numVertices, bool directed = true);
         bool isEmpty();
+        bool isFull();
 };
