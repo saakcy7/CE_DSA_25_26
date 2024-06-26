@@ -2,8 +2,6 @@
 #include <vector>
 #include <stdexcept>
 
-
-
 class Graph {
     private:
         std::vector<std::vector<int>> adjMatrix;

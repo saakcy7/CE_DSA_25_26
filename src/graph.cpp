@@ -4,7 +4,6 @@
 #include <vector>
 #include <stdexcept>
 
-
 bool Graph::isEmpty() const 
 {
     for (const auto& row : adjMatrix) 
